@@ -12,18 +12,14 @@ About Project:
 
 Project Title                     Event Management System
 
-Objective                        Making a web based application which						will help to event organizing company to						organize and manage   their event more 						efficiently and smoothly.
+Objective                  Making a web based application which will help to event organizing company to organize and manage their event more efficiently and smoothly.
 
 
-Starting                            Date 15-06-2022
-
-Completion                      Date 30-06-2022
+Tools Used                  Wamp server, Notepad, MS Word.
 
 
-Tools Used                             Wamp server, Notepad, MS Word.
+Languages used                HTML, Java Script, PHP, and CSS.     
 
-
-Languages used                HTML, Java Script, PHP, and CSS.        
 Action.php
 <?php
 
@@ -632,7 +628,8 @@ OUTPUT:
  
  
 
-[supriya(2412) (1).docx](https://github.com/supriyarana12/xenon/files/9826003/supriya.2412.1.docx)
+[supriya(2412) (1).docx]
+(https://github.com/supriyarana12/xenon/files/9826003/supriya.2412.1.docx)
  
 
 
